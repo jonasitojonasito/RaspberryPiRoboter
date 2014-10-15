@@ -1,3 +1,5 @@
+#test version for the robot library
+
 import time
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO)
