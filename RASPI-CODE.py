@@ -46,3 +46,5 @@ def linke_seite_fw(sekunde) :
 def fw(schritte):
     rechte_seite(schritte)
     linke_seite(schritte)
+#python code?
+#was is des jetzt eigentlich
